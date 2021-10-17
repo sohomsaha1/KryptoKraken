@@ -1,7 +1,7 @@
-# Krypto Kraken | <img src="https://user-images.githubusercontent.com/57738616/137645369-74d1a8be-a5fb-41ca-a386-7a6ceef15dbb.png" width="500">
+# Krypto Kraken  <img src="https://user-images.githubusercontent.com/57738616/137645369-74d1a8be-a5fb-41ca-a386-7a6ceef15dbb.png" width="500">
 
 
- KK, brings a simple crypto news platform for all your trading needs! Browse the top cryptos, trading platforms and see realtime news and crypto updates!
+### KK, brings a simple crypto news platform for all your trading needs! Browse the top cryptos, trading platforms and see realtime news and crypto updates!
 
 ## Inspiration
 Being deeply, invested into crypto currencies, I often saw a lot of overcomplicated web sites with too much information for beginners (such as me a while back)
