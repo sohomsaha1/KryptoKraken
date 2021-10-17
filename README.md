@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/57738616/137645195-649e9fff-9df7-4ac1-a6b2-1eb4d90124ed.png" width="100">
+<img src="https://user-images.githubusercontent.com/57738616/137645369-74d1a8be-a5fb-41ca-a386-7a6ceef15dbb.png" width="100">
+
 
 # KryptoKraken
 KryptoKraken, brings a simple crypto news platform for all your trading needs! Browse the top cryptos, trading platforms and see realtime news and crypto updates!
