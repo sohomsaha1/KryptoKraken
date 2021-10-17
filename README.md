@@ -23,8 +23,12 @@ Setup:
 
 ## Demo Video!
 
+https://user-images.githubusercontent.com/57738616/137644264-be9dcb91-9ac6-4509-9b7b-b1bbbe4824b2.mp4
 
 ## Next Steps and Features
 - User login
 - User crypto "Favourites"
 - User news shortlist & filtering
+
+
+
