@@ -15,7 +15,7 @@ my Redux skills, and practice implementing more complex REST API endpoints.
 The website is made with React,Redux,AntDesign and GraphQL. The API's I used were generated through RapidAPI and I used redux toolkit to create the endpoints,
 and reusable React components to display & filter such data through the users discretion.
 
-## How to run Capsule
+## How to run KryptoKraken
 
 Setup:
 - cd to project folder
